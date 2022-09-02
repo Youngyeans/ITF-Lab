@@ -1,3 +1,3 @@
 # ITF-Lab 2022
-## Authr
+## Author
 Nattanicha Suwanpayak 65070066
